@@ -1,6 +1,6 @@
 # DNS-Domain-Name-Services-
 A brief walk through of DNS Domain Name Services
-# **CC Lab 6 DNS Domain Names Services**
+# **DNS Domain Names Services**
 
 
 
@@ -15,7 +15,7 @@ A brief walk through of DNS Domain Name Services
 
 
 
-!
+
 
 
 
