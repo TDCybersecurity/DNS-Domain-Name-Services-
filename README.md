@@ -1,6 +1,9 @@
 # DNS-Domain-Name-Services-
-A brief walk through of DNS Domain Name Services
-# **DNS Domain Names Services**
+
+# **DNS Domain Names Services| System**
+DNS, or Domain Name System, is like the phone book of the Internet.  When you want to visit a website, you type in its name like (www.examplewebsite.com) into the browser.
+DNS translates that name into the numerical IP Address like (192.1.2.1) that computers use to find each other on the internet.
+This way, you don't have to remember a string of numbers; you just need to know the website's name, and DNS takes care of the rest, guiding your browser to the right place.
 
 
 
@@ -20,24 +23,14 @@ A brief walk through of DNS Domain Name Services
 
 
 
-
-**DNS** is the acronym for **Domain Name System**, which acts like a directory that translates **human-readable domain names** into **IP addresses**.
+**DNS** is the acronym for **Domain Name Services**, which acts like a directory that translates **human-readable domain names** into **IP addresses**.
 
 **Understanding DNS**
 
 - DNS converts computer names (such as client-1.mydomain.com or [**www.google.com**](http://www.google.com/) ) to IP addresses which can be used by the computer to locate resources.
 - DNS is integrated with Active Directory and automatically installed on DC-B in the last lab.
 - In this lab we will use **Client-B** and **DC-B** to do a few exercises for the sake of understanding DNS a bit better.
-
-
-# **www.google.com**
-(http://www.google.com/)
-
-#
-
-# ****
-
-# **206.58.199.228**
+![DNS Google](https://github.com/TDCybersecurity/DNS-Domain-Name-Services-/assets/142702123/fc377657-cddb-445a-9187-9503639e8223)
 
 **Overview (What we are going to do)**
 
@@ -118,4 +111,4 @@ Go to **Client-B** and **ping search**.
 Go to **DC-B**\> **Root Hints**
 ![DNS 100 Root Hint](https://github.com/TDCybersecurity/DNS-Domain-Name-Services-/assets/142702123/65e4ed55-39a3-4295-aa33-b27dc05ce107)
 
-Thank you for reviewing my lab. I hope it has provided a clearer understanding of (DNS) Domain Name Service.
+<h2>Thank you for reviewing my Github IT Project, which highlights my hands-on experience with DNS.</h2>
