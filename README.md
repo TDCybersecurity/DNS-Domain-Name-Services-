@@ -1,5 +1,3 @@
-# DNS-Domain-Name-Services-
-
 # **DNS Domain Names Services| System**
 DNS, or Domain Name System, is like the phone book of the Internet.  When you want to visit a website, you type in its name like (www.examplewebsite.com) into the browser.
 DNS translates that name into the numerical IP Address like (192.1.2.1) that computers use to find each other on the internet.
