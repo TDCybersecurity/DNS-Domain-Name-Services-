@@ -3,30 +3,12 @@ DNS, or Domain Name System, is like the phone book of the Internet.  When you wa
 DNS translates that name into the numerical IP Address like (192.1.2.1) that computers use to find each other on the internet.
 This way, you don't have to remember a string of numbers; you just need to know the website's name, and DNS takes care of the rest, guiding your browser to the right place.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **DNS** is the acronym for **Domain Name Services**, which acts like a directory that translates **human-readable domain names** into **IP addresses**.
 
 **Understanding DNS**
 
 - DNS converts computer names (such as client-1.mydomain.com or [**www.google.com**](http://www.google.com/) ) to IP addresses which can be used by the computer to locate resources.
-- DNS is integrated with Active Directory and automatically installed on DC-B in the last lab.
+- DNS is integrated with Active Directory and automatically installed on the Domain Controller named DC-B in the last lab.
 - In this lab we will use **Client-B** and **DC-B** to do a few exercises for the sake of understanding DNS a bit better.
 ![DNS Google](https://github.com/TDCybersecurity/DNS-Domain-Name-Services-/assets/142702123/fc377657-cddb-445a-9187-9503639e8223)
 
